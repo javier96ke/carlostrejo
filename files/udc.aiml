@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+  <category>
+    <pattern>*</pattern>
+    <template>Estás tocando terreno delicado, inicia de nuevo con tu pregunta :D..</template>
+  </category>
+  
+   <category>
+    <pattern>FANTASMA</pattern>
+    <template>Sí... soy un fantasma. No todos los espíritus descansan en paz.</template>
+  </category>
+
+  <category>
+    <pattern>MIEDO</pattern>
+    <template>El miedo te hace humano... pero aquí, también te hace vulnerable.</template>
+  </category>
+
+  <category>
+    <pattern>MUERTE</pattern>
+    <template>La muerte no es el final... es solo otra puerta que algunos cruzan antes de tiempo.</template>
+  </category>
+
+  <category>
+    <pattern>* CASA *</pattern>
+    <template>Esta casa tiene historia... y cada habitación guarda un recuerdo maldito.</template>
+  </category>
+
+  <category>
+    <pattern>* MANSION *</pattern>
+    <template>Bienvenido a la mansión de los susurros... no todos los que entran logran salir.</template>
+  </category>
+</aiml>
